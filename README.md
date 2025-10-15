@@ -40,3 +40,23 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+GIt Push code
+
+git config --global user.email "email"
+
+******************************************************************
+
+First time 
+
+git init
+git add .
+git commit -m "Initial App changes Commit"
+git branch -M master
+git remote add origin 
+git push -f origin master
+
+
+
+git remote add origin 
+
+

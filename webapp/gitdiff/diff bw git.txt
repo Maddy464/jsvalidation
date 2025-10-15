@@ -1,0 +1,7 @@
+
+
+Git HUb uses main as default branch
+
+other repos like azure uses Master as default branch
+
+https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
